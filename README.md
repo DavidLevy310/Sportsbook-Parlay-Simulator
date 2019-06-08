@@ -12,15 +12,15 @@
 
 ## The Hypothetical Probability of each question/answer occurring is below:
 
-* 1Yes = 50% 1No = 50%
+** * 1Yes = 50% 1No = 50% **
 
-### 2Yes = 20% 2No = 80%
+** * 2Yes = 20% 2No = 80% **
 
-### 3Yes = 30% 3No = 70%
+** * 3Yes = 30% 3No = 70% **
 
-### 4Yes = 10% 4No = 90%
+** * 4Yes = 10% 4No = 90% **
 
-### 5Yes = 50% 5No = 50%
+** * 5Yes = 50% 5No = 50% **
 
 ## Challenge: Build a probability distribution for the sportsbook, with PNL on the x-axis and Probability on the y-axis
 
