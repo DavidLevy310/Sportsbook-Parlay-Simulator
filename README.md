@@ -12,7 +12,7 @@
 
 ## The Hypothetical Probability of each question/answer occurring is below:
 
-### 1Yes = 50% 1No = 50%
+* 1Yes = 50% 1No = 50%
 
 ### 2Yes = 20% 2No = 80%
 
