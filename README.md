@@ -29,6 +29,6 @@
 #### 3) Based on the submissions chosen and the bet size per parlay, the script will generate a probability distribution for the sportsbook
 #### 4) The x-axis is PNL and the y-axis is probability of occurrence
 
-#### Note that if a parlay hits for a customer, they are paid out PROFIT as follows:
+#### Note that if a customer wins a Parlay, they are paid out PROFIT as follows:
 
 #### (1/(Probability parlay wins))*(bet size) - bet size
