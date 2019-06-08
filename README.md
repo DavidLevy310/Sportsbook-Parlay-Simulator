@@ -1,6 +1,6 @@
 # Sportsbook-Parlay-Simulator
 
-### Python script which simulates hypothetical parlay bets and generates a pnl/probability distribution
+### Python script which simulates hypothetical parlay bets and generates a pnl/probability distribution for the sportsbook
 
 ### Background
 
